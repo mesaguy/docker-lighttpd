@@ -1,6 +1,6 @@
 # Alpine based lighttpd service
 
-[![DockerHub Badge](http://dockeri.co/image/mesaguy/alpine-lighttpd)](https://hub.docker.com/r/mesaguy/alpine-lighttpd)
+[![DockerHub Badge](http://dockeri.co/image/mesaguy/lighttpd)](https://hub.docker.com/r/mesaguy/lighttpd)
 
 ## Introduction
 
